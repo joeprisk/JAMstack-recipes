@@ -1,14 +1,16 @@
 ---
-title: Great coffee with a conscience or is it
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Spice made dinners
+subtitle: Great meals made easy
+image: /img/red-lentil-curry-1024x683.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: About me
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I make delicious food, around looking after a family of 4, and wanted a
+    place to record my recipes, in a hope they may be of use to someone else.
+
+
+    All my recipes are vegetarian, and mostly quick simple recipes that can fit
+    in around my busy schedule of chasing the kids and dog around.
 intro:
   heading: What we offer
   text: >-
