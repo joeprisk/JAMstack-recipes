@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Cooking Time", name: "cooking-time", widget: "string"}
+      - {label: "Cooking Time", name: "cookingTime", widget: "string"}
       - label: "Ingredients"
         name: "ingredients"
         widget: "list"

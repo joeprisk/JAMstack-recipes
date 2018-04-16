@@ -2,6 +2,11 @@
 title: Sugar and Spice
 subtitle: Great meals made easy
 image: /img/red-lentil-curry-1024x683.jpg
+ingredients:
+  - amount: loads
+    ingredient: chips
+  - amount: '1'
+    ingredient: witch
 blurb:
   heading: About me
   text: >-

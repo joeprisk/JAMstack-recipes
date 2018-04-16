@@ -1,6 +1,11 @@
 ---
 title: "Contact"
 logo: "/img/logo.svg"
+ingredients:
+  - amount: loads
+    ingredient: chips
+  - amount: '1'
+    ingredient: witch
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"

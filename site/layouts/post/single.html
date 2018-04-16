@@ -4,16 +4,21 @@
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      <p>Read in {{ .ReadingTime }} minutes</p>
+      <p>prepared in {{ .Params.cookingTime }}</p>
     </div>
     <div class="cms mw6">
-      <dl>
-        {{ range .Ingredients }}
-        <dt>{{ .Ingredient }}</dt><dd>{{ .Amount }}</dd>
-        {{ end }}
-      </dl>
+
+
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.ingredients  }}
+      <h3>Ingredients:</h3>
+      <dl>
+        {{ range .Params.ingredients }}
+        <dt>{{ .ingredient }}</dt><dd>{{ .amount }}</dd>
+        {{ end }}
+      </dl>
+      {{ end }}
       {{ .Content }}
     </div>
   </div>
