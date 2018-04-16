@@ -1,6 +1,12 @@
 ---
 title: chick peas in batter with chips
 date: 2018-04-13T21:51:14.836Z
+cooking-time: 1 hour
+ingredients:
+  - amount: loads
+    ingredient: chips
+  - amount: '1'
+    ingredient: witch
 description: ohh thats different
 image: /img/about-direct-sourcing.jpg
 ---
