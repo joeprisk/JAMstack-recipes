@@ -90,6 +90,7 @@
 dl {
   border: 3px double #E6E6E6;
   padding: 0.5em;
+  margin-bottom:1em;
   display: flex;
   flex-wrap: wrap;
 }
