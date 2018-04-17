@@ -1,6 +1,6 @@
 ---
 title: Vegan Scones
-date: 2018-04-17T12:00:00.000Z
+date: 2018-04-15T13:00:00+01:00
 cookingTime: '30 minutes '
 ingredients:
   - amount: '250g '
