@@ -1,7 +1,7 @@
 ---
 title: Sugar and Spice
 subtitle: Great meals made easy
-image: /img/red-lentil-curry-1024x683.jpg
+image: /img/18697616_10158585000790447_143104494_o (1).jpg
 blurb:
   heading: About me
   text: >-
