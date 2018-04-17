@@ -31,4 +31,4 @@ image: /img/29693064_10160008583265447_445268160_o (1).jpg
 6.  Place on to the lined baking tray and put in the middle shelf in the oven and cook for 12 - 15 minutes. they should be a lovely golden colour and they should sound hollow when you tap the bottom.
 7. Once cooked allow to cool on a wire rack.
 
-These are delicious smothered with a generous dollop of Mixed berry Chia Jam!
+These are delicious smothered with a generous dollop of Berry Chia Jam!
