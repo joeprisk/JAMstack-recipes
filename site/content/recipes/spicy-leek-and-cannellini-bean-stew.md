@@ -1,8 +1,8 @@
 ---
-title: 'Spicy leek and Cannellini bean stew '
+title: 'Spicy Leek and Cannellini Bean Stew '
 tags:
   - stew
-date: 2018-04-17T19:35:52+01:00
+date: 2018-04-17T18:35:52.000Z
 cookingTime: '40 Minutes '
 ingredients:
   - amount: 1 tbsp
