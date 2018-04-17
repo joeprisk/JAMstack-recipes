@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://sugar-and-spice.netlify.com"
 languageCode = "en-us"
 title = "Homepage"
 [taxonomies]

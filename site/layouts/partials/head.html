@@ -1,6 +1,7 @@
 <head>
 
-	<title>{{ .Title }} | Kaldi</title>
+	<title>{{ .Title }} | Sugar & Spice</title>
+	<meta name="description" content="{{ .Description }}"/>
 	<link rel="stylesheet" href="/css/main.css" />
 
 	<meta charset="utf-8">
@@ -18,10 +19,16 @@
 	<meta name="theme-color" content="#fff">
 
 	<!-- Open Graph -->
-	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="Kaldi | Great coffee with a conscience">
-	<meta property="og:url" content="/">
-	<meta property="og:image" content="/img/og-image.jpg">
+	<meta property="og:type" content="food">
+	<meta property="og:title" content="{{ .Title }} | Sugar & Spice">
+	<meta property="og:description" content="{{ .Description }}" />
+	<meta property="og:url" content="{{ .Permalink }}">
+	<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="{{ .Title }} | Sugar & Spice">
+	<meta name="twitter:description" content="{{ .Description }}">
+	<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
 
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
