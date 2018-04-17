@@ -1,6 +1,6 @@
 ---
 title: Berry Chia Jam
-date: 2018-04-17T13:45:14+01:00
+date: 2018-04-15T13:45:14+01:00
 cookingTime: 30 Minutes
 ingredients:
   - amount: 200g
