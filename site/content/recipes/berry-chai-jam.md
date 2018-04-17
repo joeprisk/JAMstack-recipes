@@ -19,11 +19,11 @@ description: >-
   sugar free alternative. It lasts a week in the fridge... if you have any left
   it is very moreish! It is yummy on its own, but I love this on Vegan Scones
   (https://sugar-and-spice.netlify.com/recipes/vegan-scones/) my daughter really
-  loves it spread on Banana pancakes! 
+  loves it spread on Banana pancakes!
 image: /img/2825ba2a4746fdc7fe7aeee91f58687c.jpg
 ---
-1. Add fruit and honey to saucepan, Simmer for 10 minutes. 
+1. Add fruit and honey to saucepan, Simmer for 10 minutes.
 2. Mash until a smooth(ish) consistency.
-3. Add chia seeds, stir them in then lower the heat and simmer for a further 20 minutes. 
+3. Add chia seeds, stir them in then lower the heat and simmer for a further 20 minutes.
 4. Once cooked leave to cool then pour into jars. (I usually get 2 jars out of this recipe).
 5. Enjoy!
