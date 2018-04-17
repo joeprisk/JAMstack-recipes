@@ -1,3 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
