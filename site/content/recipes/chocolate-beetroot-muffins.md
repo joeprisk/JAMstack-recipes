@@ -1,6 +1,6 @@
 ---
 title: 'Chocolate Beetroot Muffins '
-date: 2018-04-17T11:10:41.797Z
+date: 2018-04-16T12:10:41+01:00
 cookingTime: '45 mins '
 ingredients:
   - amount: 190g
