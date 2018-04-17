@@ -1,8 +1,8 @@
 ---
-title: Spicy Carrot and lentil soup
+title: Spicy Carrot and Lentil Soup
 tags:
   - Soup
-date: 2018-04-11T20:36:09+01:00
+date: 2018-04-11T19:36:09.000Z
 cookingTime: '30 Minutes '
 ingredients:
   - amount: '1'
