@@ -42,7 +42,7 @@ description: >-
   flavours. So delicious and quick you will never buy the premade jars again! A
   firm favourite of mine because it can be whipped up in minutes to make a
   healthy, fresh and super tasty dinner.
-image: /img/28080312_10159808338095447_2045452551_o.jpg
+image: /img/30768275_10160091246655447_1451529110_o.jpg
 ---
 1. Place all ingredients into a food processor and blend until a smooth paste. 
 
