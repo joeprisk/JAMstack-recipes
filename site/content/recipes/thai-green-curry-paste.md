@@ -11,23 +11,23 @@ ingredients:
     ingredient: Garlic
   - amount: '4 or 5 '
     ingredient: Fresh Chillies (Green or Red)
-  - amount: '1'
-    ingredient: Red onion (or 2 Shallots)
+  - amount: '2'
+    ingredient: Shallots (or 1 onioin)
   - amount: >-
       2 stem removed. (2 tbsp of Lime zest works well if you don't have any
       kaffir lime leaves)
     ingredient: 'Kaffir lime leaves '
-  - amount: 1 Steam
+  - amount: 1 Steam (or zest of one lemon works just as well)
     ingredient: Lemon grass
   - amount: '1 thumb sized piece '
     ingredient: 'Ginger '
   - amount: 1 tbsp
     ingredient: 'Soy Sauce '
-  - amount: 2 tbsp
+  - amount: 3 tbsp
     ingredient: 'Lime Juice '
-  - amount: 1 tsp
+  - amount: 1 tbsp
     ingredient: Ground Cumin
-  - amount: 1 tsp
+  - amount: 1/2 tsp
     ingredient: Ground Coriander
   - amount: 1 tsp
     ingredient: 'Salt '
