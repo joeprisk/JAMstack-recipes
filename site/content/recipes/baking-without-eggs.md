@@ -3,8 +3,8 @@ title: 'Baking Without Eggs '
 tags:
   - baking
   - vegan
-date: 2018-03-28T16:14:46+01:00
-cookingTime: '5 minutes '
+date: 2018-04-21T16:00:00+01:00
+cookingTime: 5-10 minutes
 ingredients:
   - amount: 60ml
     ingredient: 'Applesauce '
