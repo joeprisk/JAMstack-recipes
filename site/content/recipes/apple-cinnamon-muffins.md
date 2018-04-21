@@ -33,8 +33,8 @@ description: >-
   you enjoy this quick easy recipe. 
 image: /img/28207837_10159817162965447_914204260_o (1).jpg
 ---
-1. Preheat oven to 190C (375F/Gas 5) & Line 12 cup muffin tray.
+1. Preheat oven to 200C (400F/Gas 6) & Line 12 cup muffin tray.
 2. In a large mixing bowl mix together the flour, sugar, baking powder and cinnamon.  
 3. Then add the melted butter/Coconut oil, milk, eggs, vanilla and apple stir until combined do not over mix. 
-4. Spoon into the muffin cases and bake for 25-30 minutes at 200C until golden brown. 
+4. Spoon into the muffin cases and bake for about 25 minutes at 200C until golden brown. 
 5. Let cool for 5 minutes before removing from the pan, then cool on a wire rack.
