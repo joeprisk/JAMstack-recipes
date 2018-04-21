@@ -5,7 +5,7 @@ tags:
   - Baking
   - Muffins
   - ''
-date: 2018-04-20T19:00:00+01:00
+date: 2018-04-20T18:00:00.000Z
 cookingTime: '30 Minutes '
 ingredients:
   - amount: 200g
@@ -26,7 +26,11 @@ ingredients:
     ingredient: 'Vanilla Extract '
   - amount: '150g '
     ingredient: Blueberries (fresh or frozen)
-description: yum
+description: >-
+  This recipe for deliciously moist Blueberry muffins was a happy accident which
+  I discovered when I was baking with my daughter and realised I didn't have
+  half the ingredients so I experimented with replacements and it paid off. Very
+  yummy!
 image: /img/30550445_10160098181785447_2031644226_o.jpg
 ---
 1. Preheat oven to 200C (400F, Gas 6) line muffin tray, I got 8 muffins out of this recipe.
