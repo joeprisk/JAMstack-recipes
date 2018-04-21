@@ -5,7 +5,7 @@ tags:
   - Blueberry
   - Baking
   - ''
-date: 2018-04-21T19:22:40.436Z
+date: 2018-04-14T20:22:40+01:00
 cookingTime: '50 Minutes '
 ingredients:
   - amount: 200g
