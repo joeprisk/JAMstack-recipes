@@ -5,7 +5,7 @@ tags:
   - egg
   - tomato
   - cheese
-date: 2018-04-14T22:50:43+01:00
+date: 2018-04-14T21:50:43.000Z
 cookingTime: '30 minutes '
 ingredients:
   - amount: '2'
@@ -13,7 +13,7 @@ ingredients:
   - amount: '4'
     ingredient: 'Eggs '
   - amount: 50g
-    ingredient: 'Cheddar Cheese '
+    ingredient: Cheddar Cheese Grated
   - amount: '3'
     ingredient: Cherry tomato
   - amount: a little to season (Optional)
@@ -26,7 +26,7 @@ image: /img/28080326_10159808672960447_839280342_o (1).jpg
 1. Preheat oven to 180C (350F/Gas 4).
 2. With a 12cm cutter cut circles from wrap (you should get 3 circles per wrap).
 3. Line 6 muffin tin holes with the tortilla circles. 
-4. Add a sprinkle of cheese and 1/2 a cherry tomato in each and a little black pepper (Optional).
+4. Add a sprinkle of grated cheese, 1/2 a cherry tomato and a little black pepper (Optional) in each.
 5. Beat eggs and pour evenly between the tortilla cases.
 6. Bake for 15 minutes until the egg is set. 
 
