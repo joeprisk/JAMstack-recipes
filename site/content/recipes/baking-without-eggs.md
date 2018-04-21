@@ -33,6 +33,6 @@ description: >-
 ---
 1. **Applesauce:** Use 60ml of unsweetened applesauce per egg required. Also I add a about 1/2 tsp extra baking powder. I find this adds natural sweetness to your recipe too so I usually half the amount of sugar you need. This is my favorite sub as it is a healthier option. 
 2. **Banana:** Use 60ml Of mashed banana in place of one egg. There will be a mild banana flavor so if you aren't a fan I would try one of the other options. I also find banana adds sweetness so you may want to reduce the amount of sugar.
-3. **Flaxseeds: **Use 1 tbsp of ground flaxseeds and 3 level tbsps of water until fully absorbed In place of one egg. You can buy pre ground or grind your own in a coffee or spice grinder. 
+3. **Flaxseeds:** Use 1 tbsp of ground flaxseeds and 3 level tbsps of water until fully absorbed In place of one egg. You can buy pre ground or grind your own in a coffee or spice grinder. 
 4. **Oil:** Use 60ml of mild flavored oil, Most Vegetable based oils work well but, Canola oil, Corn oil, Mild olive oil, Coconut are my favorite. If the recipe requires more than one egg I recommend using one of the other options as well because the oil can make your food a little too greasy. 
-5. **Aquafaber: **The liquid that beans such as chickpeas come in. Use 3 tbsp per replaced egg. This is best used in place for recipes that require egg whites like meringue and mousse but can be used in other baking too but will make a much moister texture than eggs do.
+5. **Aquafaber:** The liquid that beans such as chickpeas come in. Use 3 tbsp per replaced egg. This is best used in place for recipes that require egg whites like meringue and mousse but can be used in other baking too but will make a much moister texture than eggs do.
