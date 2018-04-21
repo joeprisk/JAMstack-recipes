@@ -28,8 +28,9 @@ description: >-
   even notice any difference in flavor. 
 
 
-  I will also be adding more healthy dairy free substitutions for milk, butter
-  and natural sugar replacements. So watch this space!
+  I will also be adding healthy dairy free swaps for milk/butter, natural sugar
+  substitutes and gluten free flour replacements. I have some experimenting to
+  do. So watch this space!
 image: /img/27018407_10159692192645447_838749324_o (1).jpg
 ---
 1. **Applesauce:** Use 60ml of unsweetened applesauce per egg required. Also I add a about 1/2 tsp extra baking powder. I find this adds natural sweetness to your recipe too so I usually half the amount of sugar you need. This is my favorite sub as it is a healthier option. 
