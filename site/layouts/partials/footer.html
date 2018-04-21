@@ -2,16 +2,7 @@
     <div class="mw7 center pt3">
         <div class="measure-narrow center mb4">
             <p class="f3 lh-title primary b tc mb2">Sugar & Spice</p>
-            
-            <ul>
-{{ range $.Site.Taxonomies.tags.ByCount }}
-{{ if gt .Count 1 }}
-  <li>
-    <a href="/tags/{{ .Name }}"> {{ .Name }} <small>({{ .Count }})</small></a>
-  </li>
-{{ end }}
-{{end}}
-</ul>
+           
         </div>
     </div>
 </footer>
