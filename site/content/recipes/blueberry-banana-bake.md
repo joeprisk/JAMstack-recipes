@@ -5,10 +5,10 @@ tags:
   - Blueberry
   - Baking
   - ''
-date: 2018-04-14T20:22:40+01:00
+date: 2018-04-14T19:22:40.000Z
 cookingTime: '50 Minutes '
 ingredients:
-  - amount: 200g
+  - amount: 250g
     ingredient: 'Oats '
   - amount: 1 tsp
     ingredient: 'Ground Cinnamon '
@@ -20,7 +20,7 @@ ingredients:
     ingredient: 'Bananas '
   - amount: 175ml
     ingredient: 'Oatly Milk '
-  - amount: 85g
+  - amount: 3 tbsp
     ingredient: 'Honey '
   - amount: >-
       1 Large (Or see egg replacements:
