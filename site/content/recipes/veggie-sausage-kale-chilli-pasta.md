@@ -4,7 +4,7 @@ tags:
   - Pasta
   - kale
   - chilli
-date: 2018-04-25T13:47:30+01:00
+date: 2018-04-23T13:47:30+01:00
 cookingTime: '35 minutes '
 ingredients:
   - amount: '6'
