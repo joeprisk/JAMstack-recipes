@@ -5,7 +5,7 @@ tags:
   - ginger
   - muffin
   - baking
-date: 2018-05-01T09:30:40.093Z
+date: 2018-04-30T10:30:40+01:00
 cookingTime: '40 Minutes '
 ingredients:
   - amount: 350g
