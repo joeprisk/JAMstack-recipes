@@ -4,7 +4,7 @@ tags:
   - Lemon
   - Artichoke
   - Rice
-date: 2018-03-04T14:30:49+00:00
+date: 2018-03-04T14:30:49.000Z
 cookingTime: '30 Minutes '
 ingredients:
   - amount: 500ml (you may need more)
@@ -15,13 +15,13 @@ ingredients:
     ingredient: 'Onion '
   - amount: 2 cloves
     ingredient: Garlic
-  - amount: 700g
+  - amount: 500g
     ingredient: 'Risotto Rice '
   - amount: 1 400ml can
     ingredient: 'Canned Artichoke Heart '
   - amount: 'Zest and 2 tbsp Juice '
     ingredient: 'Lemon '
-  - amount: 200g
+  - amount: 50g
     ingredient: 'Parmesan '
   - amount: 1 small bunch
     ingredient: 'Flat Leaf Parsley '
