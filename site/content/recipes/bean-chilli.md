@@ -5,7 +5,7 @@ tags:
   - chillies
   - veg
   - vegan
-date: 2018-05-21T21:00:51+01:00
+date: 2018-05-20T21:00:51+01:00
 cookingTime: 30 minutes
 ingredients:
   - amount: 1 tbsp
