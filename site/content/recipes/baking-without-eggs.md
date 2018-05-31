@@ -19,15 +19,15 @@ ingredients:
   - amount: 1tbsp mixed with 3 tbsp water
     ingredient: 'Chia seeds '
 description: >-
-  So many times have I have said to my daughter lets do some baking only to
-  discover I only have half of the ingredients which means I have to get
-  creative and substitute ingredients finding healthy and delicious
-  replacements. I love a challenge, I find it makes cooking a lot more fun. Some
-  of my favourite happy accidents and most successful recipes have been
-  discovered this way! So next time you find a recipe you want to try and want
-  to replace eggs due to allergy, dietary needs or like me realise you don't
-  have any give these a try they make a good replacement. Most people wouldn't
-  even notice any difference in flavor. 
+  So many times have I said to my daughter lets do some baking only to discover
+  I only have half of the ingredients which means I have to get creative and
+  substitute ingredients finding healthy and delicious replacements. I love a
+  challenge, I find it makes cooking a lot more fun. Some of my favourite happy
+  accidents and most successful recipes have been discovered this way! So next
+  time you find a recipe you want to try and want to replace eggs due to
+  allergy, dietary needs or like me realise you don't have any give these a try
+  they make a good replacement. Most people wouldn't even notice any difference
+  in flavor. 
 
 
   I will also be adding healthy dairy free swaps for milk/butter, natural sugar
