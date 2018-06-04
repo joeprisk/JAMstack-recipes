@@ -16,7 +16,7 @@ ingredients:
   - amount: 1/2 thumb sized piece
     ingredient: Ginger
   - amount: 3 tbsp
-    ingredient: Brown sugar (1/2 if using the canned pineapple)
+    ingredient: Brown sugar (1/2 if using the juice from the tinned pineapple)
   - amount: 3 tbsp
     ingredient: Apple cider vinegar
   - amount: 3 tbsp
