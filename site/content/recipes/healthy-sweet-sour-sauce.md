@@ -9,7 +9,7 @@ cookingTime: 15 minutes
 ingredients:
   - amount: 2 tsp
     ingredient: Corn flour or arrowroot
-  - amount: 200g
+  - amount: 250g
     ingredient: Pineapple (fresh or canned)
   - amount: '2 cloves '
     ingredient: Garlic
