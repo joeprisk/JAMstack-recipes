@@ -4,10 +4,10 @@ tags:
   - chinese
   - vegan
   - ''
-date: 2018-06-04T20:00:07+01:00
+date: 2018-06-04T19:00:07.000Z
 cookingTime: 15 minutes
 ingredients:
-  - amount: 2 tbsp
+  - amount: 2 tsp
     ingredient: Corn flour or arrowroot
   - amount: 200g
     ingredient: Pineapple (fresh or canned)
