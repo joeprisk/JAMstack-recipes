@@ -10,7 +10,7 @@ cookingTime: 30 minutes (15 prep - 15 cook)
 ingredients:
   - amount: 300g
     ingredient: 'Plain flour '
-  - amount: tbsp
+  - amount: 1 tbsp
     ingredient: 'Ground ginger '
   - amount: 1 tbsp
     ingredient: Ground cinnamon
@@ -19,7 +19,7 @@ ingredients:
   - amount: 1/2 tsp
     ingredient: 'Bicarbonate of soda '
   - amount: 150ml
-    ingredient: Coconut oil (or Vegan margarine)
+    ingredient: Coconut oil (or Vegan margarine) melted
   - amount: 60ml
     ingredient: Golden syrup
 description: >-
