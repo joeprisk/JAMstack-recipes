@@ -8,7 +8,7 @@ tags:
 date: 2018-07-23T15:31:42.356Z
 cookingTime: 30 minutes (15 prep - 15 cook)
 ingredients:
-  - amount: 290g
+  - amount: 300g
     ingredient: 'Plain flour '
   - amount: tbsp
     ingredient: 'Ground ginger '
