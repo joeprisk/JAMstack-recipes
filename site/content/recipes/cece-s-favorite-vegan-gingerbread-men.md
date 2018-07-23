@@ -1,5 +1,5 @@
 ---
-title: Cece's Favorite Vegan Gingerbread Men
+title: Cece's Favourite Vegan Gingerbread Men
 tags:
   - gingerbread
   - vegan
