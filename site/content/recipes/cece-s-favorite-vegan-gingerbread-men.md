@@ -25,7 +25,7 @@ ingredients:
 description: >-
   These fantastically flavoursome gingery Gingerbread men are a favourite in our
   house! My daughter thoroughly enjoys making and eating them! Very easy to make
-  and extremely moreish! So delicious, I bet you can't eat just one. 
+  and extremely moreish! So delicious, I bet you can't eat just one.
 image: /img/37642066_10160446974230447_8217005536625819648_n.jpg
 ---
 1. Preheat oven 180c/350f/Gas 4
