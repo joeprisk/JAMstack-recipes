@@ -33,7 +33,7 @@ description: >-
   Delicious beetroot and onion chutney packed with a sweet and spicy chilli
   kick. This flavoursome chutney is great paired with cheese and biscuits, in
   sandwiches or quiches, on a pizza. Also makes a perfect gift. 
-image: /img/37776822_10160454480240447_78701259904778240_n.jpg
+image: /img/37853785_10160454480260447_9157258041899352064_n.jpg
 ---
 1. Heat olive oil in a large sauce pan
 2. Finely slice onions and fry for 10 minutes until soft 
