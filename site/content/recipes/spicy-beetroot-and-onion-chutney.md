@@ -30,9 +30,9 @@ ingredients:
   - amount: 1 tsp
     ingredient: Pepper
 description: >-
-  Deliciously delectable beetroot and onion chutney packed with a sweet and
-  spicy chilli kick. This flavorsome chutney is great paired with cheese and
-  biscuits, in sandwiches or quiches, on a pizza. Also makes a perfect gift. 
+  Delicious beetroot and onion chutney packed with a sweet and spicy chilli
+  kick. This flavoursome chutney is great paired with cheese and biscuits, in
+  sandwiches or quiches, on a pizza. Also makes a perfect gift. 
 image: /img/37776822_10160454480240447_78701259904778240_n.jpg
 ---
 1. Heat olive oil in a large sauce pan
