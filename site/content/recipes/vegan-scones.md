@@ -1,6 +1,6 @@
 ---
 title: Vegan Scones
-date: 2018-04-15T13:00:00+01:00
+date: 2018-04-15T12:00:00.000Z
 cookingTime: '30 minutes '
 ingredients:
   - amount: '250g '
@@ -20,7 +20,7 @@ description: >-
   scones I have ever tasted quick, easy and delicious! The coconut flavor is
   very subtle. I love these served with my homemade Berry Chia seed jam - a
   match made in heaven! You could also take it to the next level and serve with
-  some coconut cream.
+  some coconut cream. 
 image: /img/29693064_10160008583265447_445268160_o (1).jpg
 ---
 1. Preheat oven to 220C (200C Fan)/390F/Gas 6 and line baking tray with baking parchment.
@@ -28,7 +28,9 @@ image: /img/29693064_10160008583265447_445268160_o (1).jpg
 3. Add baking powder, Sugar, Salt and combine.
 4. Make a well in the center and pour in Coconut milk and mix until a soft dough forms.
 5. lightly dust work surface, layout dough and at flatten to about a 1 1/2 inch thickness and cut cut your desired shape. I usually get about 10 scones. 
-6.  Place on to the lined baking tray and put in the middle shelf in the oven and cook for 12 - 15 minutes. they should be a lovely golden colour and they should sound hollow when you tap the bottom.
+6. Place on to the lined baking tray and put in the middle shelf in the oven and cook for 12 - 15 minutes. they should be a lovely golden colour and they should sound hollow when you tap the bottom.
 7. Once cooked allow to cool on a wire rack.
 
 These are delicious smothered with a generous dollop of Berry Chia Jam!
+
+Also incredibly delicious with dried fruit (75g) or grated cheese (30g) added into the mix.
