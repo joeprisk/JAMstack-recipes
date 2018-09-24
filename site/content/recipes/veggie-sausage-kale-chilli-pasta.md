@@ -4,19 +4,19 @@ tags:
   - Pasta
   - kale
   - chilli
-date: 2018-04-23T13:47:30+01:00
+date: 2018-04-23T12:47:30.000Z
 cookingTime: '35 minutes '
 ingredients:
-  - amount: '6'
-    ingredient: 'Vegearian sausages '
-  - amount: 2 tsp
-    ingredient: 'Fennel seeds '
-  - amount: 3 cloves - crushed
-    ingredient: 'Garlic '
-  - amount: Zest & juice
-    ingredient: 'Lemon '
   - amount: '1 Large - finely sliced '
     ingredient: 'Red chilli '
+  - amount: 3 cloves - crushed
+    ingredient: 'Garlic '
+  - amount: 2 tsp
+    ingredient: 'Fennel seeds '
+  - amount: '6'
+    ingredient: 'Vegearian sausages '
+  - amount: Zest & juice
+    ingredient: 'Lemon '
   - amount: 160g - cut in half
     ingredient: 'Cherry tomatoes '
   - amount: 400g
