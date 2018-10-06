@@ -1,7 +1,6 @@
 ---
-title: Sticky Tofu with Rice And Spinach
+title: Sticky Tofu with Rice and Spinach
 tags:
-  - vegan
   - tofu
   - spinach
 date: 2018-10-06T19:36:05.350Z
