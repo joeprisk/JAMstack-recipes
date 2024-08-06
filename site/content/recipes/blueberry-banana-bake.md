@@ -24,7 +24,7 @@ ingredients:
     ingredient: 'Honey '
   - amount: >-
       1 Large (Or see egg replacements:
-      https://sugar-and-spice.netlify.com/recipes/baking-without-eggs/ )
+      https://www.sugar-and-spice.uk/recipes/baking-without-eggs/ )
     ingredient: 'Egg '
   - amount: 1 tsp
     ingredient: 'Vanilla Extract '

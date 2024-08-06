@@ -18,7 +18,7 @@ description: >-
   frozen fruit (Frozen summer fruits works really well) and is a quick healthy
   sugar free alternative. It lasts a week in the fridge... if you have any left
   it is very moreish! It is yummy on its own, but I love this on Vegan Scones
-  (https://sugar-and-spice.netlify.com/recipes/vegan-scones/) my daughter really
+  (https://www.sugar-and-spice.uk/recipes/vegan-scones/) my daughter really
   loves it spread on Banana pancakes!
 image: /img/2825ba2a4746fdc7fe7aeee91f58687c.jpg
 ---
